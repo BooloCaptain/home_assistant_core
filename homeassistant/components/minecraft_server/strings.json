@@ -15,7 +15,7 @@
           "address": "The hostname, IP address or SRV record of your Minecraft server, optionally including the port."
         },
         "description": "Set up your Minecraft Server instance to allow monitoring.",
-        "title": "Link your Minecraft Server"
+        "title": "Link your Epic Minecraft Server"
       }
     }
   },
